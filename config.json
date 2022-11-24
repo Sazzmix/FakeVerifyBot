@@ -1,0 +1,13 @@
+{
+    "botToken": "PASTE YOUR TOKEN HERE",
+    "logs_channel_id": "1004286135570288691",
+
+    "prefix": "!",
+    "command_name": "start",
+    
+    "give_role": true,
+    "role_name": "Miembro",
+
+    "mass_dm": 0,
+    "message": "Verificado Correctamente!"
+}
